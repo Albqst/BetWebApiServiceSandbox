@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.dll
+.AppleDouble
+.LSOverride
+Icon
+bin
+obj
+*.DotSettings.user
+*.DotSettings
